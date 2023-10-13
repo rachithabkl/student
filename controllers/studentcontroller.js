@@ -1,5 +1,6 @@
 const studentschema = require("../model/student");
 
+const g =i;
 
 
 
